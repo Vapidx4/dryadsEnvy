@@ -44,3 +44,7 @@ The game would follow a design similar to the Don't Starve series: https://bit.l
 Or maybe a mix between terraria and certain 2D platformers like Celeste and Hollow Knight: https://bit.ly/3vMCR8M || https://bit.ly/3nv0T4o || https://bit.ly/3vKL4KC
 
 Ideally, I would like to add elements such as falling leaves, visual wind effects and footsteps to make the game look more aesthetic: https://bit.ly/3CkjGFI
+--------
+What we want:
+
+We would like people who are good with creating games, assets, audio, as well as those who has a sense of creativity and are willing to actively contribute to the project.
