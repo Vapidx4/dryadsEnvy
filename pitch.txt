@@ -1,0 +1,46 @@
+Game Summary:
+
+A long time ago, in a land far, far away...
+
+It is a period of unrest for the creatures of the forest. As human's are encroaching onto the land, for the ever lasting thirst for resources.
+You, the dryad, the protector of said forest, have to unleashed all sort of defenses such as plant traps, fearless beasts, and mythological creatures, 
+in an effort to keep your homeland safe from destruction and wipe out the human threat.
+--------
+Goal and Mechanics:
+
+Your job as the protector of the forest is to help your home to flourish, while defending against hordes of humans.
+
+You're encouraged to spread your territory, to keep a consistent stream of resources flowing in.
+There's human settlements scattered all across the map, which will ocassionally spawn in humans.
+To stop humans from spawning in, you'll have to destroy these settlements(removing the settlement from the map entirely), either through brute force,
+or to restrict their flow of resources, until they either starve (resulting in the settlement turning into ruins, which the player can take over), or until they 
+decide to relocate and create a new camp (this will happen when the player fails to eliminate all escape routes).
+--------
+Win Condition:
+--------
+When all human settlements are eliminated.
+
+Lose Condition: 
+---------
+When the God Tree is destroyed (You'll have to protect this tree from the humans).
+---------
+Levels: 
+
+The game has one main level. This is the map that you spawn in. Human settlements and resources are spawn randomly all across the world.
+
+Once the main design is complete, and if we have time, we may create more maps which will be unlocked once the player has beaten the main game.
+---------
+Sources of inspiration:
+
+The idea comes from a reddit thread, however, i've made a few alterations to it, so that it would resemble more of a civilization/survival game.
+Additionally, some fantasy elements and mechanics were added so the game would feel more fulfilling and indept.
+
+( https://www.reddit.com/r/gameideas/comments/qfl69m/you_play_as_a_forest_trying_to_fight_back_against/ )
+--------
+Concept:
+
+The game would follow a design similar to the Don't Starve series: https://bit.ly/3nyImnM || https://bit.ly/3jzYuV1
+
+Or maybe a mix between terraria and certain 2D platformers like Celeste and Hollow Knight: https://bit.ly/3vMCR8M || https://bit.ly/3nv0T4o || https://bit.ly/3vKL4KC
+
+Ideally, I would like to add elements such as falling leaves, visual wind effects and footsteps to make the game look more aesthetic: https://bit.ly/3CkjGFI
